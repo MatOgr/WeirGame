@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">WeirGame</string>
+    <string name="reset">RESET</string>
+    <string name="start">START</string>
+    <string name="guess">GUESS</string>
+    <string name="make_a_guess">Make a Guess!</string>
+    <string name="points">Points</string>
+    <string name="shots">Shots</string>
+    <string name="login">LOGIN</string>
+    <string name="register">REGISTER</string>
+    <string name="nick">Nick</string>
+    <string name="log_in_text">Already registered? <u><b>Log in here</b></u></string>
+    <string name="reg_here_text">Have not registered yet? <u><b>Register here</b></u></string>
+    <string name="zero">0</string>
+    <string name="your_nick">Your nick</string>
+    <string name="your_password">Your password</string>
+    <string name="wg_logo">WeirGame Logo</string>
+    <string name="butRecords"><b>RECORDS</b></string>
+    <string name="scores">SCORES</string>
+</resources>
